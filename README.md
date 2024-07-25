@@ -57,7 +57,7 @@ To get started with any project, follow the instructions provided in the project
     ```
 2. Navigate to the project directory:
     ```sh
-    cd minprojects-electronics/DS18B20-Temperature-Sensor
+    cd MiniProjects-Electronincs/Temperature DS18B20
     ```
 3. Follow the instructions in the project's README file.
 
