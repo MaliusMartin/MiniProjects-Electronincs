@@ -18,10 +18,10 @@ In this project, we demonstrate how to control a 12V DC water pump using the ESP
 - A simple switch is simulated in the Arduino code, which can be controlled manually or automatically using environmental triggers (e.g., soil moisture sensors).
 
 ## Circuit Diagram
-Find the circuit diagram in the repository: [Circuit Drawing](https://github.com/MaliusMartin/MiniProjects-Electronincs/tree/main/12V%20DC%20Pump)
+Find the circuit diagram in the repository: [Circuit Drawing](https://github.com/MaliusMartin/MiniProjects-Electronincs/blob/main/12V%20DC%20Pump/Connection.jpg)
 
 ## Arduino Code
-The code for the ESP32 is included in the repository. You can find it [here](https://github.com/MaliusMartin/MiniProjects-Electronincs/tree/main/12V%20DC%20Pump).
+The code for the ESP32 is included in the repository. You can find it [here](https://github.com/MaliusMartin/MiniProjects-Electronincs/blob/main/12V%20DC%20Pump/Pump.ino).
 
 ## Usage Instructions
 1. Wire up the components as per the circuit diagram.
