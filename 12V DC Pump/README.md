@@ -32,5 +32,7 @@ The code for the ESP32 is included in the repository. You can find it [here](htt
 ## Repository Link
 Check out the full project code and documentation on GitHub: [MiniProjects-Electronics/12V DC Pump](https://github.com/MaliusMartin/MiniProjects-Electronincs/tree/main/12V%20DC%20Pump)
 
+
+Check out other Electronics projects GitHub: [MiniProjects-Electronics](https://github.com/MaliusMartin/MiniProjects-Electronincs)
 ---
 
